@@ -2,7 +2,6 @@ plugins {
     id 'java'
 }
 
-group 'com.tropicbliss'
 version '0.1.0'
 
 repositories {
